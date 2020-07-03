@@ -4,4 +4,4 @@
 
 **Reference**: [See accompanying blog post](https://lukereichold.com/blog/posts/3d-mnist-swift-for-tensorflow/)
 
-![](https://colab.research.google.com/assets/colab-badge.svg)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WKXO60XOdKud6iqbsmjsHOaHK93IQOnB)
